@@ -1,11 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Join us on Telegram @moddedaakash" tvg-logo="" group-title="Join us on Telegram  @moddedaakash",Join us on Telegram ‘ @moddedaakash
-https://t.me/moddedaakash
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Join us on Telegram @techlucknowyt" tvg-logo="" group-title="Join us on Telegram  @techlucknowyt",Join us on Telegram ‘ @techlucknowyt
-https://t.me/techlucknowyt
-
-
 #EXTINF:0,FLOW Bundesliga 1
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:5E:5D:B8&stream=608902&extension=ts
